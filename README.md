@@ -11,8 +11,8 @@ We extend our benchmark, **HALLUCINOGEN**, to high-stakes medical applications w
 ![Alt text](medhallucinogen.png)
 
 ## Datasets
---To extract diverse image-object pairs for **HALLUCINOGEN**, we leverage all the splits from the **POPE** benchmark. 
---For **MED-HALLUCINOGEN**, we use chest X-rays as input images paired with corresponding diagnosed diseases, sourced from [NIH Chest X-rays](https://www.kaggle.com/datasets/nih-chest-xrays/data).
+- To extract diverse image-object pairs for **HALLUCINOGEN**, we leverage all the splits from the **POPE** benchmark. 
+- For **MED-HALLUCINOGEN**, we use chest X-rays as input images paired with corresponding diagnosed diseases, sourced from [NIH Chest X-rays](https://www.kaggle.com/datasets/nih-chest-xrays/data).
 
 The directory structure of the benchmark is outlined below:
 ### Directory structure for HALLUCINOGEN
