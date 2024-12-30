@@ -1,4 +1,4 @@
-# HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models
+# Hallucinogen: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models
 
 **HALLUCINOGEN** is a novel benchmark for evaluating hallucination in large visual language models for object detection and medical applications. 
 
