@@ -2,6 +2,8 @@
 
 **HALLUCINOGEN** is a novel benchmark for evaluating hallucination in large visual language models for object detection and medical applications. 
 
+Paper: [Hallucinogen](https://arxiv.org/abs/2412.20622v1)
+
 ## Overview
 
 Unlike previous benchmarks, **HALLUCINOGEN** introduces a diverse set of complex contextual reasoning prompts, termed **object hallucination attacks**, specifically designed to query LVLMs about visual objects that may not exist in a target image. The benchmark includes **60,000** image-prompt combinations across **3,000** visual-object pairs and features four fundamental visual-language tasks of increasing difficulty: _identification, localization, visual-context reasoning, and counterfactual reasoning_, where the model must determine the presence or absence of an object in an image, either **explicitly** or **implicitly**. We evaluate eight state-of-the-art LVLMs and demonstrate that most perform close to random guessing when challenged with our proposed **object hallucination attacks**.
