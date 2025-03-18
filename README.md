@@ -2,7 +2,7 @@
 
 **HALLUCINOGEN** is a novel benchmark for evaluating hallucination in large visual language models for object detection and medical applications. 
 
-Paper: [Hallucinogen](https://arxiv.org/abs/2412.20622v1)
+Paper: [Hallucinogen](https://arxiv.org/abs/2412.20622)
 
 ## Overview
 
